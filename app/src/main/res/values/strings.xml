@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CRUD safe</string>
+    <string name="first_name">Nome</string>
+    <string name="last_name">Sobrenome</string>
+    <string name="title">Título</string>
+    <string name="save">Salvar</string>
+</resources>
